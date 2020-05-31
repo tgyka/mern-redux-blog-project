@@ -1,0 +1,36 @@
+.header {
+    width: 80%;
+    height:30vh;
+    background:#b5b5dc;
+    margin:auto;
+    position:relative;
+}
+
+h2 {
+ left:10px;
+ top: 40px;
+ position:absolute;   
+}
+
+.navbar {
+    position:absolute;
+    bottom:0;
+  
+    
+    
+    background:#d4d4d4;
+    width:100%;
+    display:flex;
+}
+
+a{
+    padding:10px;
+    text-decoration: none;
+    color:black;
+    
+    
+}
+
+a:hover {
+    background:#adadad;
+}
